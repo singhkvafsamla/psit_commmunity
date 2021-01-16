@@ -1,0 +1,135 @@
+
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand {
+    color: darkgreen;
+}
+body{
+/*    /background: url(../images/bg1.jpg);*/
+    background-color: ;
+    background-size: cover;
+    background-position:centre;
+    font-family: Cantamaran;
+    
+    
+}
+.navbar navbar-expand-lg navbar-light bg-light{
+    background-color:#c32a2a78;
+    
+}
+.psit-image {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  z-index:-1;
+}
+
+
+.slogan {
+  position: absolute;
+  top: 150px;
+  left: 30px;
+    color: yellow;
+     font-family: "Sofia", sans-serif;
+    object-position: center;
+}
+.leftpanel{
+    width: 300px;
+    height: 100vh;
+}
+.left-heading{
+    padding-top: 25px;
+    padding-left: 50px;
+    font-family:sans-serif;
+    font-size: 25px;
+}
+ .leftpanel ul li{
+     margin-left: 
+    padding-left: 30px;
+     padding-top: 0px;
+     list-style: none;
+     margin: 20px;
+     background-color: brown;
+}
+
+
+.column1 h2 {
+    margin-left: 20px;
+    
+}
+.hstyle{
+    
+}
+.column1 p{
+    margin-left: 20px;
+}
+.boxmodel ul li{
+    list-style: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    
+    
+}
+.pp{
+    margin-left: 10px;
+    
+    height: 240px;
+    width:100%;
+}
+
+.mid-right {
+	margin:0px;
+	padding:0px;
+	/*background:url(../images/right-bg-rpt.jpg) repeat-y left top;*/
+	width:291px;
+	float:left;
+}
+.mid-right-top {
+	margin:0px;
+	padding:0px;
+	background:url(../images/bg4.jpg) no-repeat left top;
+	width:400px;
+    height:400px;
+	float:left;
+}
+ul.right-nav {
+	margin:0px;
+	padding:20px 40px 20px 40px;
+	list-style:none;
+}
+ul.right-nav li {
+	margin:0px;
+	padding:8px 0px 8px 0px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	color: yellowgreen;
+	text-decoration:none;
+	
+	border-bottom:5px solid green;
+	line-height:20px;
+}
+ul.right-nav li a {
+	font-family: 'Merriweather', serif;
+	font-size: 20px;
+	color: white;
+	text-decoration:none;
+	font-weight:normal;
+}
+ul.right-nav li a:hover {
+	color: yellow;
+	text-decoration:none;
+	font-weight:normal;
+}
+.footer {
+   position: fixed
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height: 200px;
+   background-color:darkcyan;
+   color: white;
+   text-align: center;
+}
+
+
+

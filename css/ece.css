@@ -1,0 +1,111 @@
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand {
+    color: darkgreen;
+}
+body{
+/*    /background: url(../images/bg1.jpg);*/
+    background-color: ;
+    background-size: cover;
+    background-position:centre;
+    font-family: Cantamaran;
+    
+    
+}
+.navbar navbar-expand-lg navbar-light bg-light{
+    background-color:#c32a2a78;
+    
+}
+
+.wrapper{
+    
+    padding: 0px;
+    margin-top: 0px;
+    background-color: antiquewhite;
+    position: absolute;
+    width: 100%;
+    
+    
+}
+h2{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+/*
+.post-query{
+    padding-top: 0px;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+}
+*/
+/*
+.text-area{
+    position:absolute;
+    margin-left: 300px;
+    width: 150px;
+    
+}
+*/
+/*
+.wrapper .text-area {
+    margin-left: 50px;
+    
+    
+}
+*/
+input[type="text"] {
+    width: 100%;
+    
+    height: 100px;
+    border: 2px solid black;
+    text-align: left;
+}
+.image img{
+    width: 100%;
+    height: 300px;
+    
+    
+}
+h3{
+    text-align: center;
+    background-color:black;
+    color: aqua;
+    margin-top: 0px;
+}
+#query{
+    background: centre;
+    margin-left: 20%;
+}
+.student-query{
+    background-color: azure;
+    width: 100%px;
+    padding: 2px;
+    border: 3px solid black;
+    padding-bottom: 2px;
+    margin-top: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    height: 100%;
+}
+.student-query div p{
+    overflow-wrap: break-word;
+    color: blue;
+    font-size: 18px;
+    margin-left: 10%;
+    
+    width: 100%;
+    height: 100%;
+}
+.student-query h5{
+    overflow-wrap: break-word;
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    margin-left: 10%;
+    width: 100%;
+    height: 100%;
+}
+#query1{
+    margin-left: 10%;
+}
+.btn btn-primary{
+    margin-left: 50px;
+}
